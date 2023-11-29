@@ -3,7 +3,7 @@
 int main ()
 {
 	char nim[] = "2341066";
-	char nama[] = "Mulya Ibrahim Aksan";
+	char nama[] = "Vinni Apriliani";
 	char jurusan[] = "Teknik Informatika";
 	
 	printf("nim = %s\n", nim);
